@@ -1,0 +1,102 @@
+.mainBg{
+-fx-background-color: white;
+}
+.border1Px{
+-fx-border-width: 0 4 0 0;
+}
+
+.mainBorderColor{
+-fx-border-color: #FAFAFA;
+}
+
+.grey{
+-fx-text-fill: #D6D6D6;
+}
+.greyFill{
+-fx-fill: #D6D6D6;
+}
+
+.black{
+-fx-text-fill: #1F1F1F;
+}
+.activeSection{
+-fx-background-color: #403C8C;
+-fx-fill: #B39DFF;
+-fx-text-fill: #B39DFF;
+}
+
+.borderRadius16{
+-fx-background-radius: 7px;
+}
+.icon:hover{
+-fx-fill: #1F1F1F;
+}
+
+.section:hover{
+-fx-background-color: #E9F8EF;
+}
+.green{
+-fx-fill: #3BB56F;
+}
+.greenText{
+-fx-text-fill: #3BB56F;
+}
+.greenBg{
+-fx-background-color: #3BB56F;
+}
+
+.circleRadius{
+-fx-background-radius: 400;
+}
+
+.redFill{
+-fx-fill: #EB5353;
+}
+
+.yellowFill{
+-fx-fill: #F2C84A;
+}
+
+.customWhiteFill{
+-fx-fill: #F2F2F6;
+}
+
+.customWhiteText{
+-fx-text-fill: #F2F2F6;
+
+}
+
+.bg{
+-fx-background-color: linear-gradient(to bottom, #373271 0%, #524FAB 50%, #6060CC 100%);
+}
+.activeFill{
+-fx-fill: #B39DFF;
+}
+
+.activeText{
+-fx-text-fill: #B39DFF;	
+}
+
+
+.whiteFill{
+-fx-fill: #fff;
+}
+
+.darkNightBlackBg{
+-fx-background-color: #3E3E84;
+}
+
+.darkNightFill{
+-fx-fillL: #403C8C;
+}
+
+.storage{
+-fx-border-radius: 7px;
+-fx-border-width: 1;
+-fx-border-color: #403C8C;
+
+}
+
+.storageSubtext{
+-fx-text-fill: #BFBED8;
+}
